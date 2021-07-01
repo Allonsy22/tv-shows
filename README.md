@@ -1,24 +1,19 @@
-# client
+# Find shows
+## A simple SPA for finding shows 
 
-## Project setup
-```
+[Example](http://find-show.surge.sh/)
+
+## Tech
+
+- [API](https://www.tvmaze.com/api) - TVmaze.
+- [Vue 2](https://vuejs.org/) - main framework.
+- [Vuetify](https://vuetifyjs.com/en/) - Material Design Framework.
+- [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
+
+
+## Installation
+```sh
+cd client
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
